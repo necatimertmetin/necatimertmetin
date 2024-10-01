@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 **Hi! I'm Mert Metin!**  <br>🎓 **I graduated from Trakya University with a degree in Computer Engineering**  <br>💻 Currently, I'm working as a *Frontend Developer* at **VNGRS**..  <br>🌐 **I'm passionate about web development as a **Full Stack Web Developer** and constantly learning new technologies..  <br>📈 I focus on delivering impressive and functional web applications with an emphasis on user experience.  <br>
+👋 **Hi! I'm Mert Metin!**  <br>🎓 **I graduated from Trakya University with a degree in Computer Engineering**  <br>💻 Currently, I'm working as a *Frontend Developer* at **VNGRS**..  <br>🌐 I'm passionate about web development as a **Full Stack Web Developer** and constantly learning new technologies..  <br>📈 I focus on delivering impressive and functional web applications with an emphasis on user experience.  <br>
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=necatimertmetin&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ I hate those absurd metaphors that try to teach life lessons, but here, take one for yourself:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
@@ -24,7 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=necatimertmetin&icon=2&color=12)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can't buy me a coffee can you?
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/paradisemud) 
 
   
