@@ -1,3 +1,5 @@
+![angry coder](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDg3eG94cDVjYXFqd2R4MmN0amdsNHJzdXZ0NHhxam9xMjBhdm01cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HCwnYWnMgLZUW1BtP2/giphy.webp)
+
 # 💫 About Me:
 👋 **Hi! I'm Mert Metin!**  <br>🎓 **I graduated from Trakya University with a degree in Computer Engineering**  <br>💻 Currently, I'm working as a *Frontend Developer* at **VNGRS**..  <br>🌐 I'm passionate about web development as a **Full Stack Web Developer** and constantly learning new technologies..  <br>📈 I focus on delivering impressive and functional web applications with an emphasis on user experience.  <br>
 
