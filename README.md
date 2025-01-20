@@ -3,6 +3,13 @@
 # 💫 About Me:
 👋 **Hi! I'm Mert Metin!**  <br>🎓 **I graduated from Trakya University with a degree in Computer Engineering**  <br>💻 Currently, I'm working as a *Frontend Developer* at **VNGRS**..  <br>🌐 I'm passionate about web development as a **Full Stack Web Developer** and constantly learning new technologies..  <br>📈 I focus on delivering impressive and functional web applications with an emphasis on user experience.  <br>
 
+## 🚀 Projects
+
+You can see my projects, including GitHub Pages enabled ones, on the following link:
+
+- **[My Projects](https://necatimertmetin.github.io/my-projects/)**
+
+All of my other projects are listed there. Feel free to explore and check them out!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/metrosso) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrmetin) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/metrosso) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/FalusaPivolum) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/metrosso) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@metrosso5156) 
