@@ -5,7 +5,7 @@
 
 ## 🚀 Projects
 
-You can see my projects, including GitHub Pages enabled ones, on the following link:
+You can see my GitHub Pages enabled projects, on the following link:
 
 - **[My Projects](https://necatimertmetin.github.io/my-projects/)**
 
